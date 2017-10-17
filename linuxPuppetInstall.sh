@@ -3,7 +3,7 @@
 # linuxPuppetInstall.sh
 # version 0.1
 
-# POC: ALTESS Unix Engineering
+# POC: Brent Bachorik
 
 # Install PE Puppet agent package on RHEL
 # Currently ONLY supports RHEL5/6
