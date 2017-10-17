@@ -3,7 +3,7 @@
 # solarisPuppetInstall.sh
 # version 0.1
 
-# POC: ALTESS Unix Engineering
+# POC: Brent Bachorik
 
 # Install PE Puppet agent package on Solaris
 # Currently ONLY supports Solaris 10
